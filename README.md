@@ -1,1 +1,1 @@
-# HTML-Mid-Term
+# Parallax Website for Mid Term Exam
